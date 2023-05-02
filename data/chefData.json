@@ -1,0 +1,164 @@
+[
+    {
+        "_id": "1",
+        "name": "Alice Waters",
+        "picture": "https://th.bing.com/th/id/OIP.A6KwF72kJLh-MT-9tloxrAAAAA?pid=ImgDet&rs=1",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 1500,
+        "description": "Alice Waters is an American chef and the founder of Chez Panisse, a restaurant in Berkeley, California. She is known for her emphasis on using fresh, locally sourced ingredients and for popularizing the farm-to-table movement. Waters has been a prominent figure in the food world for over 50 years, and has written several cookbooks, including 'The Art of Simple Food' and 'The Art of Simple Food II'. She is also a vocal advocate for sustainable agriculture and food education. In 1996, Waters founded the Edible Schoolyard Project, a program that teaches children about gardening and cooking, with the goal of promoting healthier food choices and a deeper understanding of the environment. Waters has received numerous accolades for her contributions to the culinary world, including being named one of Time magazine's '100 Most Influential People' in 2014.",
+        "recipes_1": {
+            "recipe_name": "Beef Stroganoff",
+            "ingredients": " 1. beef . 2. mushrooms. 3. onion.  4. garlic. 5. sour cream.   6. beef broth. 7. egg noodles.",
+            "method_of_cooking": "Cook egg noodles according to package instructions.In a separate pan, cook beef until browned.Remove beef and sauté onion, garlic, and mushrooms until tender.Add beef broth and bring to a simmer.Add sour cream and stir well.Serve beef over egg noodles.",
+            "rating": 4.7
+        },
+        "recipes_2":{
+                "recipe_name": "Chicken Fajitas",
+                "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+                "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+                "rating": 4.9
+            },
+        "recipes_3":{
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+                "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
+                "rating": 4.5
+            }
+    },
+    {
+        "_id": "2",
+        "name": "Gordon Ramsay",
+        "picture": "https://th.bing.com/th/id/OIP.zPIMo-01rgowMVJWrM2XfgHaKf?pid=ImgDet&rs=1",
+        "years_of_experience": 8,
+        "number_of_recipes": 70,
+        "likes": 2200,
+        "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has opened multiple successful restaurants around the world, including 'Restaurant Gordon Ramsay' in London, which has three Michelin stars. Ramsay is known for his fiery personality and no-nonsense approach to cooking, which has earned him both praise and criticism. He has also hosted several popular cooking shows, including 'Hell's Kitchen' and 'MasterChef'. Ramsay has written numerous cookbooks, and has won multiple awards for his contributions to the culinary world. He is widely regarded as one of the most influential chefs of his generation.",
+        "recipes_1": {
+                "recipe_name": "Spicy Chicken Curry",
+                "ingredients": "1. chicken 2. curry powder 3. tomato sauce 4. onion 5. garlic 6. ginger 7. chili pepper",
+                "method_of_cooking": "In a large pot, cook onion, garlic, and ginger until fragrant. Add chicken and cook until browned. Add curry powder and chili pepper and stir well. Add tomato sauce and bring to a simmer. Cover and cook until chicken is tender. Serve hot.",
+                "rating": 4.8
+            },
+        "recipes_2":{
+                "recipe_name": "Chicken Fajitas",
+                "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+                "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+                "rating": 4.9
+            },
+        "recipes_3": {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+                "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
+                "rating": 4.5
+            }
+    },
+    {
+        "_id": "3",
+        "name": "Julia Child",
+        "picture": "https://th.bing.com/th/id/R.21340d5ab6bf180e059da0bd40217c21?rik=UzL435MNjtlEjA&pid=ImgRaw&r=0",
+        "years_of_experience": 12,
+        "number_of_recipes": 60,
+        "likes": 1800,
+        "description": "Julia Child was an American chef, author, and television personality. She is known for bringing French cuisine to the American public through her book 'Mastering the Art of French Cooking', which she co-authored with Simone Beck and Louisette Bertholle. Child also hosted several television shows, including 'The French Chef', which aired on PBS from 1963 to 1973. Child's warm personality and approachable teaching style helped to demystify French cooking for American audiences. She was a pioneer in the culinary world, and received numerous awards and honors throughout her lifetime. Child's legacy continues to inspire chefs and home cooks around the world.",
+        "recipes_1":{
+                "recipe_name": "Garlic Shrimp Pasta",
+                "ingredients": "1. shrimp 2. pasta 3. garlic 4. olive oil 5. cherry tomatoes 6. spinach 7. lemon juice",
+                "method_of_cooking": "Cook pasta according to package instructions. Heat olive oil in a pan and sauté garlic until fragrant. Add shrimp and cook until pink. Add cherry tomatoes and spinach and cook until wilted. Add lemon juice and stir well. Serve over pasta.",
+                "rating": 4.5
+            },
+        "recipes_2":{
+                "recipe_name": "Chicken Fajitas",
+                "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+                "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+                "rating": 4.9
+            },
+        "recipes_3":{
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+                "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
+                "rating": 4.5
+            }
+    },
+    {
+        "_id": "4",
+        "name": "Massimo Bottura",
+        "picture": "https://th.bing.com/th/id/OIP.BBnsQU1xQYusWltYKe4gQAHaLH?pid=ImgDet&w=1024&h=1536&rs=1",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 1000,
+        "description": "Massimo Bottura is an Italian chef and the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine, and for using local and seasonal ingredients in his dishes. Bottura has been recognized as one of the best chefs in the world, and has won numerous awards for his contributions to the culinary field. He is also the founder of 'Food for Soul', a non-profit organization that aims to fight food waste and social isolation through community kitchens and other initiatives.",
+        "recipes_1": {
+            "recipe_name": "Chicken Tikka Masala",
+            "ingredients": "1. chicken thighs 2. yogurt 3. tomato sauce 4. ginger 5. garlic 6. garam masala 7. cumin 8. coriander 9. cream 10. rice",
+            "method_of_cooking": "Marinate chicken thighs in yogurt and spices for at least 1 hour. Grill or bake chicken until cooked through. In a separate pan, cook ginger and garlic until fragrant. Add tomato sauce, garam masala, cumin, and coriander. Simmer for 10 minutes. Stir in cream and cooked chicken. Serve with rice.",
+            "rating": 4.6
+        },
+        "recipes_2": {
+            "recipe_name": "Chicken Fajitas",
+            "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+            "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+            "rating": 4.9
+        },
+        "recipes_3": {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+            "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste. Serve hot, garnished with additional parmesan cheese and black pepper.",
+            "rating": 4.5
+        }
+    },
+    {
+        "_id": "5",
+        "name": "Marcus Samuelsson",
+        "picture": "https://th.bing.com/th/id/OIP.t-0P14Eb-XXaYNQyNxmSqQAAAA?pid=ImgDet&rs=1",
+        "years_of_experience": 15,
+        "number_of_recipes": 80,
+        "likes": 2500,
+        "description": "Marcus Samuelsson is an Ethiopian-Swedish chef, restaurateur, and author. He is the owner of several restaurants around the world, including 'Red Rooster' in Harlem, New York. Samuelsson has been a judge on several cooking competition shows, including 'Chopped' and 'Top Chef'. He is the author of several cookbooks, including 'The Soul of a New Cuisine' and 'The Red Rooster Cookbook'. Samuelsson has won numerous awards for his contributions to the culinary field, and is widely regarded as one of the top chefs in the United States.",
+        "recipes_1": {
+            "recipe_name": "Grilled Salmon",
+            "ingredients": "1. salmon fillets 2. lemon 3. garlic 4. olive oil 5. salt 6. pepper 7. asparagus",
+            "method_of_cooking": "Preheat grill to medium-high heat. Brush salmon fillets with olive oil and season with salt and pepper. Grill for 4-5 minutes on each side or until cooked through. Toss asparagus with olive oil, garlic, salt, and pepper. Grill asparagus for 2-3 minutes on each side or until tender. Serve salmon and asparagus with lemon wedges.",
+            "rating": 4.7
+        },
+        "recipes_2": {
+            "recipe_name": "Chicken Fajitas",
+            "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+            "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine. Warm flour tortillas in microwave or on a skillet.Serve chicken and vegetable mixture on warm tortillas.",
+            "rating": 4.9
+        },
+        "recipes_3": {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+            "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce.Season with salt and pepper to taste. Serve hot, garnished with additional parmesan cheese and black pepper.",
+            "rating": 4.5
+        }
+    },
+    {
+        "_id": "6",
+        "name": "Alex Guarnaschelli",
+        "picture": "https://th.bing.com/th/id/OIP.u98MHaJ6xayDxql5tQDEkwHaJ4?pid=ImgDet&rs=1",
+        "years_of_experience": 3,
+        "number_of_recipes": 20,
+        "likes": 800,
+        "description": "Alex Guarnaschelli is an American chef, author, and television personality. She is the executive chef at Butter restaurant in New York City, and has been a judge on several cooking competition shows, including 'Chopped' and 'Iron Chef America'. Guarnaschelli is the author of several cookbooks, including 'Old-School Comfort Food' and 'The Home Cook'. She has won numerous awards for her contributions to the culinary field, and is widely regarded as one of the top female chefs in the United States.",
+        "recipes_1": {
+            "recipe_name": "Tacos al Pastor",
+            "ingredients": "1. pork shoulder 2. achiote paste 3. pineapple 4. onion 5. cilantro 6. tortillas 7. lime wedges",
+            "method_of_cooking": "Marinate pork shoulder in achiote paste overnight. Skewer pork with pineapple and onion. Grill until pork is cooked through.Serve with warm tortillas, cilantro, and lime wedges.",
+            "rating": 4.9
+        },
+        "recipes_2": {
+            "recipe_name": "Chicken Fajitas",
+            "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+            "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+            "rating": 4.9
+        },
+        "recipes_3": {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+            "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce.Season with salt and pepper to taste. Serve hot, garnished with additional parmesan cheese and black pepper.",
+            "rating": 4.5
+        }
+    }
+]
