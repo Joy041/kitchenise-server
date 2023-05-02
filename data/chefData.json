@@ -11,20 +11,23 @@
             "recipe_name": "Beef Stroganoff",
             "ingredients": " 1. beef . 2. mushrooms. 3. onion.  4. garlic. 5. sour cream.   6. beef broth. 7. egg noodles.",
             "method_of_cooking": "Cook egg noodles according to package instructions.In a separate pan, cook beef until browned.Remove beef and sauté onion, garlic, and mushrooms until tender.Add beef broth and bring to a simmer.Add sour cream and stir well.Serve beef over egg noodles.",
-            "rating": 4.7
+            "rating": 4.7,
+            "img": "https://th.bing.com/th/id/R.eeb23335a62757498398f128f964b1d1?rik=bbu%2fH0WOPR5XJw&pid=ImgRaw&r=0"
         },
-        "recipes_2":{
-                "recipe_name": "Chicken Fajitas",
-                "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
-                "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
-                "rating": 4.9
-            },
-        "recipes_3":{
-                "recipe_name": "Spaghetti Carbonara",
-                "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
-                "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
-                "rating": 4.5
-            }
+        "recipes_2": {
+            "recipe_name": "Chicken Fajitas",
+            "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+            "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.7e81463f1ae76535786891669ec914d2?rik=Z%2fc4CuY9g3HEtA&pid=ImgRaw&r=0"
+        },
+        "recipes_3": {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+            "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
+            "rating": 4.5,
+            "img": "https://lisasdinnertimedish.com/wp-content/uploads/2016/01/3151e.jpg-3151.jpg"
+        }
     },
     {
         "_id": "2",
@@ -35,23 +38,26 @@
         "likes": 2200,
         "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has opened multiple successful restaurants around the world, including 'Restaurant Gordon Ramsay' in London, which has three Michelin stars. Ramsay is known for his fiery personality and no-nonsense approach to cooking, which has earned him both praise and criticism. He has also hosted several popular cooking shows, including 'Hell's Kitchen' and 'MasterChef'. Ramsay has written numerous cookbooks, and has won multiple awards for his contributions to the culinary world. He is widely regarded as one of the most influential chefs of his generation.",
         "recipes_1": {
-                "recipe_name": "Spicy Chicken Curry",
-                "ingredients": "1. chicken 2. curry powder 3. tomato sauce 4. onion 5. garlic 6. ginger 7. chili pepper",
-                "method_of_cooking": "In a large pot, cook onion, garlic, and ginger until fragrant. Add chicken and cook until browned. Add curry powder and chili pepper and stir well. Add tomato sauce and bring to a simmer. Cover and cook until chicken is tender. Serve hot.",
-                "rating": 4.8
-            },
-        "recipes_2":{
-                "recipe_name": "Chicken Fajitas",
-                "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
-                "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
-                "rating": 4.9
-            },
+            "recipe_name": "Spicy Chicken Curry",
+            "ingredients": "1. chicken 2. curry powder 3. tomato sauce 4. onion 5. garlic 6. ginger 7. chili pepper",
+            "method_of_cooking": "In a large pot, cook onion, garlic, and ginger until fragrant. Add chicken and cook until browned. Add curry powder and chili pepper and stir well. Add tomato sauce and bring to a simmer. Cover and cook until chicken is tender. Serve hot.",
+            "rating": 4.8,
+            "img": "https://th.bing.com/th/id/OIP.ZYtqERtVqJSFKueXMrbWswHaHa?pid=ImgDet&rs=1"
+        },
+        "recipes_2": {
+            "recipe_name": "Chicken Fajitas",
+            "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+            "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.7e81463f1ae76535786891669ec914d2?rik=Z%2fc4CuY9g3HEtA&pid=ImgRaw&r=0"
+        },
         "recipes_3": {
-                "recipe_name": "Spaghetti Carbonara",
-                "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
-                "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
-                "rating": 4.5
-            }
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+            "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
+            "rating": 4.5,
+            "img": "https://lisasdinnertimedish.com/wp-content/uploads/2016/01/3151e.jpg-3151.jpg"
+        }
     },
     {
         "_id": "3",
@@ -61,24 +67,27 @@
         "number_of_recipes": 60,
         "likes": 1800,
         "description": "Julia Child was an American chef, author, and television personality. She is known for bringing French cuisine to the American public through her book 'Mastering the Art of French Cooking', which she co-authored with Simone Beck and Louisette Bertholle. Child also hosted several television shows, including 'The French Chef', which aired on PBS from 1963 to 1973. Child's warm personality and approachable teaching style helped to demystify French cooking for American audiences. She was a pioneer in the culinary world, and received numerous awards and honors throughout her lifetime. Child's legacy continues to inspire chefs and home cooks around the world.",
-        "recipes_1":{
-                "recipe_name": "Garlic Shrimp Pasta",
-                "ingredients": "1. shrimp 2. pasta 3. garlic 4. olive oil 5. cherry tomatoes 6. spinach 7. lemon juice",
-                "method_of_cooking": "Cook pasta according to package instructions. Heat olive oil in a pan and sauté garlic until fragrant. Add shrimp and cook until pink. Add cherry tomatoes and spinach and cook until wilted. Add lemon juice and stir well. Serve over pasta.",
-                "rating": 4.5
-            },
-        "recipes_2":{
-                "recipe_name": "Chicken Fajitas",
-                "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
-                "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
-                "rating": 4.9
-            },
-        "recipes_3":{
-                "recipe_name": "Spaghetti Carbonara",
-                "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
-                "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
-                "rating": 4.5
-            }
+        "recipes_1": {
+            "recipe_name": "Garlic Shrimp Pasta",
+            "ingredients": "1. shrimp 2. pasta 3. garlic 4. olive oil 5. cherry tomatoes 6. spinach 7. lemon juice",
+            "method_of_cooking": "Cook pasta according to package instructions. Heat olive oil in a pan and sauté garlic until fragrant. Add shrimp and cook until pink. Add cherry tomatoes and spinach and cook until wilted. Add lemon juice and stir well. Serve over pasta.",
+            "rating": 4.5,
+            "img": "https://www.playfulcooking.com/wp-content/uploads/2018/03/Creamy-Butter-Garlic-Shrimp-Pasta-1.jpg"
+        },
+        "recipes_2": {
+            "recipe_name": "Chicken Fajitas",
+            "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
+            "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.7e81463f1ae76535786891669ec914d2?rik=Z%2fc4CuY9g3HEtA&pid=ImgRaw&r=0"
+        },
+        "recipes_3": {
+            "recipe_name": "Spaghetti Carbonara",
+            "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
+            "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste.Serve hot, garnished with additional parmesan cheese and black pepper.",
+            "rating": 4.5,
+            "img": "https://lisasdinnertimedish.com/wp-content/uploads/2016/01/3151e.jpg-3151.jpg"
+        }
     },
     {
         "_id": "4",
@@ -92,19 +101,22 @@
             "recipe_name": "Chicken Tikka Masala",
             "ingredients": "1. chicken thighs 2. yogurt 3. tomato sauce 4. ginger 5. garlic 6. garam masala 7. cumin 8. coriander 9. cream 10. rice",
             "method_of_cooking": "Marinate chicken thighs in yogurt and spices for at least 1 hour. Grill or bake chicken until cooked through. In a separate pan, cook ginger and garlic until fragrant. Add tomato sauce, garam masala, cumin, and coriander. Simmer for 10 minutes. Stir in cream and cooked chicken. Serve with rice.",
-            "rating": 4.6
+            "rating": 4.6,
+            "img": "https://th.bing.com/th/id/OIP.n0vbj6Fc7vx5uLkEPALRCAHaJr?pid=ImgDet&rs=1"
         },
         "recipes_2": {
             "recipe_name": "Chicken Fajitas",
             "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
             "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
-            "rating": 4.9
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.7e81463f1ae76535786891669ec914d2?rik=Z%2fc4CuY9g3HEtA&pid=ImgRaw&r=0"
         },
         "recipes_3": {
             "recipe_name": "Spaghetti Carbonara",
             "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
             "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces. In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce. Season with salt and pepper to taste. Serve hot, garnished with additional parmesan cheese and black pepper.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img": "https://lisasdinnertimedish.com/wp-content/uploads/2016/01/3151e.jpg-3151.jpg"
         }
     },
     {
@@ -119,19 +131,22 @@
             "recipe_name": "Grilled Salmon",
             "ingredients": "1. salmon fillets 2. lemon 3. garlic 4. olive oil 5. salt 6. pepper 7. asparagus",
             "method_of_cooking": "Preheat grill to medium-high heat. Brush salmon fillets with olive oil and season with salt and pepper. Grill for 4-5 minutes on each side or until cooked through. Toss asparagus with olive oil, garlic, salt, and pepper. Grill asparagus for 2-3 minutes on each side or until tender. Serve salmon and asparagus with lemon wedges.",
-            "rating": 4.7
+            "rating": 4.7,
+            "img": "https://th.bing.com/th/id/OIP.q-tgGDxPHmRLfw_oJSE0AAAAAA?pid=ImgDet&rs=1"
         },
         "recipes_2": {
             "recipe_name": "Chicken Fajitas",
             "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
             "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine. Warm flour tortillas in microwave or on a skillet.Serve chicken and vegetable mixture on warm tortillas.",
-            "rating": 4.9
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.7e81463f1ae76535786891669ec914d2?rik=Z%2fc4CuY9g3HEtA&pid=ImgRaw&r=0"
         },
         "recipes_3": {
             "recipe_name": "Spaghetti Carbonara",
             "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
             "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce.Season with salt and pepper to taste. Serve hot, garnished with additional parmesan cheese and black pepper.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img": "https://lisasdinnertimedish.com/wp-content/uploads/2016/01/3151e.jpg-3151.jpg"
         }
     },
     {
@@ -146,19 +161,22 @@
             "recipe_name": "Tacos al Pastor",
             "ingredients": "1. pork shoulder 2. achiote paste 3. pineapple 4. onion 5. cilantro 6. tortillas 7. lime wedges",
             "method_of_cooking": "Marinate pork shoulder in achiote paste overnight. Skewer pork with pineapple and onion. Grill until pork is cooked through.Serve with warm tortillas, cilantro, and lime wedges.",
-            "rating": 4.9
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.dd2d38e6421cf463c031aa46af4ec7ab?rik=ZDpW7K4Vv5SPdQ&pid=ImgRaw&r=0"
         },
         "recipes_2": {
             "recipe_name": "Chicken Fajitas",
             "ingredients": "1. chicken breasts 2. red bell pepper 3. green bell pepper 4. yellow onion 5. lime 6. taco seasoning 7. flour tortillas",
             "method_of_cooking": "Cut chicken breasts into thin strips. Slice red and green bell peppers and yellow onion into thin strips. In a large bowl, combine chicken strips, sliced vegetables, and taco seasoning. Toss to coat well.Heat a large skillet over medium-highheat. Add chicken and vegetables to skillet and cook until chicken is no longer pink and vegetables are tender, about 8-10minutes. Squeeze lime juice over chicken and vegetables and stir to combine.Warm flour tortillas in microwave or on a skillet. Serve chicken and vegetable mixture on warm tortillas.",
-            "rating": 4.9
+            "rating": 4.9,
+            "img": "https://th.bing.com/th/id/R.7e81463f1ae76535786891669ec914d2?rik=Z%2fc4CuY9g3HEtA&pid=ImgRaw&r=0"
         },
         "recipes_3": {
             "recipe_name": "Spaghetti Carbonara",
             "ingredients": "1. spaghetti 2. bacon 3. eggs 4. parmesan cheese 5. garlic 6. salt 7. black pepper",
             "method_of_cooking": "Cook spaghetti according to package instructions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and crumble it into small pieces.In a bowl, whisk together eggs and parmesan cheese. When spaghetti is done cooking, reserve 1/2 cup of pasta water and drain the rest. Add garlic to the skillet and sauté for 1 minute. Add cooked spaghetti and bacon to the skillet and toss to combine. Remove skillet from heat and add egg and cheese mixture, tossing quickly to coat the spaghetti. Add reserved pasta water as needed to create a creamy sauce.Season with salt and pepper to taste. Serve hot, garnished with additional parmesan cheese and black pepper.",
-            "rating": 4.5
+            "rating": 4.5,
+            "img": "https://lisasdinnertimedish.com/wp-content/uploads/2016/01/3151e.jpg-3151.jpg"
         }
     }
 ]
